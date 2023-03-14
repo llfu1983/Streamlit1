@@ -18,7 +18,8 @@ st.sidebar.write("2️⃣ 222")
 
 - 基础的渲染效果,控件的简单应用
     - 文本的info,success,warning,error等都不错[link](https://santiago911-streamlit-experience-streamlit-experience-f92buw.streamlit.app/)
-    - DataFrame直接魔术方法就很好;
+    - DataFrame表格直接魔术方法就很好;
+    - 绘图是用面向对象的方法,使用figure(画布),ax(子图)的方法,seaborn还未测试,不过应该可以;
 
 - 缓存,全局变量,用户变量,页面变量的测试
 
